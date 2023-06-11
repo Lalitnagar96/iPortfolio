@@ -1,0 +1,610 @@
+table .profi{
+	height : 150px ;
+	width : 150px ;
+	border : 10px solid grey ;
+	border-radius : 50% ;
+	}
+
+
+
+table .social{
+	height : 50px ;
+	width : 250px ;
+	}
+
+
+
+.un{
+	color : grey ;
+	margin-left : -10px ;
+	}
+
+
+
+
+.home{
+	margin-bottom : 5250px ;
+	}
+
+
+.strt h1{
+	color : white ;
+	}
+
+
+
+.strt{
+	color : white ;
+	padding-left : 10px ;
+	}
+
+.last{
+	 background-color : black ;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alex{
+		background-image : url("../assets/img/hero-bg.jpg") ;
+		background-color : rgba(0,0,0,0.3) ;
+		background-repeat : round ;
+		background-size : cover ;
+		background-blend-mode : darken ;
+		background-position : center ;
+		color : white ;
+		width : 1150px ;
+		height : 670px ;
+		margin-bottom : -40px ;
+	}
+
+
+.alex div{
+		padding-top : 210px ;
+		padding-left : 330px ;
+	}
+
+
+
+.alex h1{
+		font-size : 60px ;
+		color : white ;
+	}
+
+
+
+.alex p{
+		font-size : 20px ;
+		color : white ;
+		margin-top : -40px ;
+	}
+
+
+
+.alex div hr{
+		margin-left : 30px ;
+		margin-top : -18px ;
+		width : 80px ;
+	}
+
+
+
+
+
+
+h1{
+	color : #00004d ;
+	}
+
+
+p{
+	color : #4d4d4d ;
+	}
+
+
+
+/*--------------------------------about-------------------------------*/
+
+
+.about{
+	background-color :  #d9d9d9 ;
+	height : 500px ;
+	width : 1130px ;	
+	padding-left : 20px ;
+	padding-top : 20px ;
+	}
+
+
+
+
+
+
+
+.about img{
+		height : 350px ; 
+		width : 350px ;
+		align : left ;
+		margin-right : 20px ;
+		filter : brightness(0.7) ;
+	}
+
+
+
+
+hr{
+	width :45px ;
+	height : 2px solid  #006699 ;
+	margin-right : 1400px ;
+	}
+
+
+
+.about h2{
+		color : #00004d ;
+	}
+
+
+
+
+.about p{
+		color : #4d4d4d ;
+		font-size : 15px ;
+	}
+
+
+
+
+.about pre{
+		color : #4d4d4d ;
+		font-size : 15px ;
+	}
+
+
+
+
+.about b{
+		color : black ;
+		font-size : 15px ;
+	}
+
+
+	/*---------------------------------facts---------------------------------------*/
+
+
+.facts{
+		background-color :  #d9d9d9 ;
+		width : 1110px ;	
+		padding : 20px ;
+	}
+
+
+
+
+
+
+.facts table img{
+		width : 70px ;
+		height : 120px ;
+		filter : brightness(1.2);
+	}
+
+
+
+
+
+
+.facts table{
+		margin-left : 35px ;
+		
+	}
+
+
+
+	/*---------------------------------skills---------------------------------------*/
+
+
+
+.skills{
+		background-color :   #d9d9d9 ;
+		height : 150px ;
+		width : 1110px ;
+		padding-top : 20px ;
+		padding-right : 20px ;
+		padding-left : 20px ;
+		
+	}
+
+
+
+.kill img{
+		background-color :  #b3b3b3 ;
+		filter : brightness(1.2);
+		height : 200px ;
+		width : 1150px ;
+		margin-bottom : -10px ;
+	}
+
+
+
+	/*---------------------------------resume---------------------------------------*/
+
+
+
+.resume{
+		background-color :  #d9d9d9 ;
+		width : 1110px ;	
+		padding : 20px ;
+	}
+
+
+
+.sumary{
+		border-left : 2px solid #00004d ;
+		padding-left : 10px ;
+		
+	}
+
+
+.education b{
+		border : 0px solid ;
+		background-color :  #b3b3b3 ;		
+	}
+
+
+.resume ul{
+		color : #4d4d4d ;
+	}
+
+
+
+
+
+.education{
+		border-left : 2px solid #00004d ;
+		padding-left : 10px ;
+		
+	}
+
+
+
+
+.pro{
+		border-left : 2px solid #00004d ;
+		padding-left : 10px ;
+		
+	}
+
+.pro b{
+		border : 0px solid ;
+		background-color :  #b3b3b3 ;
+		
+	}
+
+
+
+
+
+.resume ul{
+		padding : 10px ;
+	}
+
+
+
+
+
+
+	/*---------------------------------portfolio---------------------------------------*/
+
+
+
+.portfolio{
+		background-color :  #cccccc
+ ;
+		width : 1110px ;	
+		padding : 20px ;
+	}
+
+
+
+
+
+
+
+
+.port{
+		background-color :  #d9d9d9 ;
+		font-size : 14px ;
+		color : #4d4d4d  ;
+		border : 0px solid ;
+		width : 250px ; 
+		height : 35px ;
+		border-radius : 25px 25px 25px 25px ;
+		margin-left : 425px ;
+	}
+
+
+
+
+
+
+
+
+.portfolio img{
+		height : 250px ;
+		width : 350px ;
+		margin : 10px 20px 10px 0px ;
+		filter : brightness(0.8) ;
+	}
+
+
+
+.portfolio .nof{
+		
+		filter : brightness(1.1) ;
+	}
+
+
+
+	/*---------------------------service---------------------------------------*/
+
+
+
+
+.service{
+		background-color :  #d9d9d9 ;
+		width : 1110px ;	
+		padding : 20px ;
+		padding-bottom : 60px ;
+	}
+
+
+
+.service img{
+		filter : brightness(1.2);
+		border-radius : 25% ;
+		width : 40px ;	
+		height : 40px ;
+		padding-bottom : 60px ;
+		margin-top : 20px ;
+		margin-right : 5px ;
+		padding-left : px ;
+		
+	}
+
+
+
+
+	/*----------------------------------testimonials---------------------------*/
+
+
+
+
+
+
+.testi{
+		background-color :  #cccccc ;
+		width : 1110px ;	
+		padding : 20px ;
+		padding-bottom : 20px ;
+	}
+
+
+
+.testi img{
+		border : 0px solid ;
+		border-radius : 50% ;
+		height : 80px ; 
+		width : 80px ;
+		}
+
+.testi p{
+		color : #4d4d4d ;
+	}	
+	
+
+
+
+
+
+.matt{
+		background-color : white ;
+		border-radius : 10px ;
+		padding : 10px ;
+		margin : 0px 15px 0px ;
+	}	
+
+
+.mattp p{
+		color : grey  ;
+	}
+
+
+.matt b{
+		color : #99ddff ;
+		font-size : 35px ;
+	}
+
+
+
+
+
+
+
+.john{
+		background-color : white ;
+		border-radius : 10px ;
+		padding : 10px ;
+		margin : 0px 15px 0px ;
+	}
+
+
+.johnp p{
+		color : grey  ;
+	}
+
+
+
+.john b{
+		color : #99ddff ;
+		font-size : 35px ;
+	}
+
+
+
+
+
+
+
+.saul{
+		background-color : white ;
+		border-radius : 10px ;
+		padding : 10px ;
+		margin : 0px 15px 0px ;
+	}
+
+
+.saulp p{
+		color : grey  ;
+	}
+
+
+.saul b{
+		color : #99ddff ;
+		font-size : 35px ;
+	}
+
+
+	/*-----------------------contact------------------------------------------*/
+
+
+
+.contact{
+		background-color :  #d9d9d9 ;
+		width : 1110px ;	
+		height : 700px ;
+		padding : 20px ;
+		padding-bottom : 60px ;
+	}
+
+
+
+.gap{
+		background-color : #f1f1f1 ;
+		padding : 20px ;
+		padding-top : 35px ;
+		box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+	}
+
+
+
+
+
+
+
+.contact .loc img{
+		height : 40px ;
+		width : 40px ;
+		border-radius : 50% ;
+		margin-right : 10px ;
+	}
+
+
+
+.map{
+		height : 180px ;
+		width : 300px ;
+		
+	}
+
+
+.contact table .form{
+		background-color : #f1f1f1 ;
+		padding : 10px ;
+		margin-left : 15px ;
+		box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+			
+	}
+
+
+
+.contact table .form input{
+		width : 335px ;
+		height : 40px ;
+	}
+
+.contact table .form textarea{
+		width : 685px ;
+		height : 100px ;
+	}
+
+
+.contact table .form .sub{
+		width : 685px ;	
+	}
+
+
+
+.contact table .form button{
+		background-color : #0099cc ;
+		border : 0px solid ;	
+		border-radius : 5px ;
+		color : white ;
+		width : 200px ;
+		height : 40px ;	
+		margin-left : 250px ;
+	}
+
+	/*-----------------------form----------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
